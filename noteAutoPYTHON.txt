@@ -1,0 +1,25 @@
+SAP_1:
+- UL2020_RP
+- Freq: Annually
+- Term: 10/10
+- PH khác LA:
++ PH: 01.01.1981/Z001/M/0/0
++ LA: 100243653 (hardcode)
+- CC: 2210001689
+- SA: 300M; Premium: 20M
+--List box refer:
+https://www.youtube.com/watch?v=vjR45AHBprk
+--temp set{}
+productDetails = {
+        "MBAL Universal Life 2020 (QDW0000A0000)",
+
+        "MBAL Universal Life (9R80000A0000)",
+
+        "Endowment Assurance (XJ40000A0000)",
+
+        "Child Educational Endowment (3N50000A0000)",
+
+        "Whole Of Life ULK - WULKRP (3FZ0000A0000)",
+
+        "Whole Of Life - WULKSP (QJZ0000A0000)"
+    }
